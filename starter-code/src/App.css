@@ -26,3 +26,16 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+.img {
+  width: 60px;
+  border-radius: 3px;
+}
+
+.List {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 0 30%;
+  font-size: 22px;
+}
